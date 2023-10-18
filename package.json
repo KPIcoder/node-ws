@@ -1,0 +1,23 @@
+{
+  "name": "ws",
+  "version": "1.0.0",
+  "description": "node js websockets",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "node-ws"
+  },
+  "keywords": [
+    "node",
+    "ws"
+  ],
+  "author": "kpicoder",
+  "license": "ISC",
+  "devDependencies": {
+    "eslint": "^8.51.0"
+  }
+}
