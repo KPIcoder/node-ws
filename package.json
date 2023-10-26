@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "node js websockets",
   "main": "index.js",
+  "type": "module",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node ."
@@ -19,5 +20,8 @@
   "license": "ISC",
   "devDependencies": {
     "eslint": "^8.51.0"
+  },
+  "dependencies": {
+    "ws": "^8.14.2"
   }
 }
